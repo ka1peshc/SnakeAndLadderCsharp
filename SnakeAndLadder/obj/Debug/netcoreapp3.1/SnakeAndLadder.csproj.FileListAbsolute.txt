@@ -1,0 +1,14 @@
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.exe
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.deps.json
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.runtimeconfig.json
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.runtimeconfig.dev.json
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.dll
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.pdb
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.csproj.AssemblyReference.cache
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.AssemblyInfoInputs.cache
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.AssemblyInfo.cs
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.csproj.CoreCompileInputs.cache
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.dll
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.pdb
+D:\Bridgelabz lecture\Dot net\Day 4 C# SnakeAndLadder\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.genruntimeconfig.cache
