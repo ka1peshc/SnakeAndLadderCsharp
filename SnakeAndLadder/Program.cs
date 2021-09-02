@@ -13,6 +13,7 @@ namespace SnakeAndLadder
             const int SNAKE = 2;
             const int LADDER = 3;
             int position = 0;
+            int diceRollCount = 0;
             int dice, option;
             //Dice logic
             Random random = new Random();
@@ -30,15 +31,28 @@ namespace SnakeAndLadder
                     case NOPLAY:
                         position += 0;
                         break;
-                    case SNAKE:
+                    case LADDER:
                         position += dice;
                         break;
-                    case LADDER:
+                    case SNAKE:
                         position -= dice;
                         break;
                 }
+                if(position == 100)
+                {
+                    break;
+                }
+                if (position > 100)
+                {
+                    position -= dice;
+                }
+                //Loop end condition
+                diceRollCount++;
+                if (diceRollCount > 3000)
+                    break;
+                
             }
-            Console.WriteLine(position);
+            Console.WriteLine("Positin is "+position+"No of dice rolled "+diceRollCount);
         }
     }
 }
