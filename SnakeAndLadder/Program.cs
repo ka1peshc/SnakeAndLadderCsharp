@@ -13,23 +13,32 @@ namespace SnakeAndLadder
             const int SNAKE = 2;
             const int LADDER = 3;
             int position = 0;
+            int dice, option;
             //Dice logic
             Random random = new Random();
-            int dice = random.Next(1, 7);
-            int option = random.Next(1, 4);
-
-            switch (option)
+            
+            while (position <= 100)
             {
-                case NOPLAY:
-                    position += 0;
-                    break;
-                case SNAKE:
-                    position += dice;
-                    break;
-                case LADDER:
-                    position -= dice;
-                    break;
+                dice = random.Next(1, 7);
+                option = random.Next(1, 4);
+                if (position < 0)
+                {
+                    position = 0;
+                }
+                switch (option)
+                {
+                    case NOPLAY:
+                        position += 0;
+                        break;
+                    case SNAKE:
+                        position += dice;
+                        break;
+                    case LADDER:
+                        position -= dice;
+                        break;
+                }
             }
+            Console.WriteLine(position);
         }
     }
 }
